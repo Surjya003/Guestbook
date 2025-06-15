@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📘 Professional Guestbook
 
 A modern, professional guestbook web application built with Flask and SQLite. Allow visitors to leave messages and share their thoughts in a clean, responsive interface.
@@ -414,3 +415,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+=======
+# Guestbook
+>>>>>>> 62428bcf4251558cde9c2e72735b20883b4f4447
